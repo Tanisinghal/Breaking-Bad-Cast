@@ -37,7 +37,7 @@ const CharacterItem = ({ item }) => {
             <li>
               <strong>Status:</strong> {item.status}
             </li>
-            <a href="!#">Read More</a>
+            
           </ul>
         </div>
       </div>
